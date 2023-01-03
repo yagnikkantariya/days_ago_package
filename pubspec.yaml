@@ -1,5 +1,5 @@
 name: days_ago
-description: A new Flutter plugin project.
+description: Get time ago string, Just by passing Date and time.
 version: 1.0.0
 homepage: https://github.com/yagnikkantariya/days_ago_package
 
