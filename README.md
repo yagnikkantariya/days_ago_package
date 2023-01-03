@@ -1,6 +1,6 @@
 # days_ago
 
-A new Flutter plugin project.
+This package is use to get Time ago string. It is really easy to use, Just follow the right steps.
 
 ## Getting Started
 
