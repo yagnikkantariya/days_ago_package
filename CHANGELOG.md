@@ -1,3 +1,4 @@
-## 1.0.0
+## 1.0.1
 
-* TODO: Describe initial release.
+* Added support for multiple platform 
+* Changes on readme descriptions
