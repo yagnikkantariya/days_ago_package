@@ -1,6 +1,6 @@
 name: days_ago
-description: Get time ago string, Just by passing Date and time.
-version: 1.0.0
+description: This package will help you to get time ago string, Just by passing Date and time. it is really easy to use as well.
+version: 1.0.1
 homepage: https://github.com/yagnikkantariya/days_ago_package
 
 environment:
